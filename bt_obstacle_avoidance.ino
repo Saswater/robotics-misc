@@ -1,5 +1,5 @@
 /* 
- * Robotics B1 Project code, by Saswata
+ * Robotics B1 Project code
  */
 
 #include <SoftwareSerial.h>
